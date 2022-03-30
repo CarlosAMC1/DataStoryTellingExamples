@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1648668786 "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/DataStoryTelling.tex" "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/build/DataStoryTelling.pdf" "DataStoryTelling" 1648668788
+["pdflatex"] 1648671478 "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/DataStoryTelling.tex" "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/build/DataStoryTelling.pdf" "DataStoryTelling" 1648671481
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136790254 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb9e.tfm" 1136790254 5972 0c64c4f5128ecc01ce53c9f2da598834 ""
@@ -102,11 +102,11 @@
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625497667 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "DataStoryTelling.tex" 1648668785 22198 5459cd6a5f0b26837ce3b742b8900ac2 ""
-  "build/DataStoryTelling.aux" 1648668788 3041 643b7b03b733991ea718c45ffcc39bc5 "pdflatex"
-  "build/DataStoryTelling.out" 1648668788 2669 86181b7e7d94f291a2dd25f22f4af267 "pdflatex"
-  "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/DataStoryTelling.tex" 1648668785 22198 5459cd6a5f0b26837ce3b742b8900ac2 ""
-  "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/build/DataStoryTelling.aux" 1648668788 3041 643b7b03b733991ea718c45ffcc39bc5 ""
+  "DataStoryTelling.tex" 1648671474 24901 47e2d1810d7b4ab41b06baef32dca183 ""
+  "build/DataStoryTelling.aux" 1648671481 3041 b3c15eec840d7d7235469af1a7f56efa "pdflatex"
+  "build/DataStoryTelling.out" 1648671481 2669 86181b7e7d94f291a2dd25f22f4af267 "pdflatex"
+  "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/DataStoryTelling.tex" 1648671474 24901 47e2d1810d7b4ab41b06baef32dca183 ""
+  "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/build/DataStoryTelling.aux" 1648671481 3041 b3c15eec840d7d7235469af1a7f56efa ""
   "imagenes/img1.png" 1648666785 45393 9abf2d67b982ca3e502d7bc501e4c5cf ""
   "imagenes/img10.png" 1648667355 60303 bb85a1712a61017f453bfa07da5e831b ""
   "imagenes/img11.png" 1648667410 336058 eb6074d9f0acb0898cc84af177448dbd ""
@@ -124,8 +124,8 @@
   "imagenes/logo.png" 1633926410 56115 9f802c9b63477013a62ae6a042414454 ""
   (generated)
   "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/build/DataStoryTelling.pdf"
-  "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/build/DataStoryTelling.log"
   "build/DataStoryTelling.aux"
-  "build/DataStoryTelling.pdf"
   "build/DataStoryTelling.log"
+  "build/DataStoryTelling.pdf"
   "build/DataStoryTelling.out"
+  "c:/Users/CarlosM/Desktop/Inteligencia de Negocios/I UNIDAD/DataStoryTellingExamples/build/DataStoryTelling.log"
